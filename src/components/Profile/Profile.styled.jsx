@@ -22,6 +22,7 @@ export const Avatar = styled.img`
   margin-top: 40px;
   margin-bottom: 40px;
   border-radius: 50%;
+  background-color: rgb(38, 39, 53)
 `;
 export const Tag = styled.p`
   font-weight: 600;

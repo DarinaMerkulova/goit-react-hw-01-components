@@ -11,9 +11,10 @@ export const StatisticsSection = styled.section`
   height: auto;
   padding: 40px 0;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-`;
+ `;
 export const Title = styled.h2`
   margin-bottom: 20px;
+  
 `;
 
 export const Statlist = styled.ul`
