@@ -50,20 +50,20 @@ export const Stats = styled.ul`
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   box-shadow: 0 -3px 5px rgba(0, 0, 0, 0.2);
-  `;
+`;
 
 export const Item = styled.li`
-    padding: 35px 20px ;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    width: calc(350px/3);
-    border-right: 1px solid rgb(191, 191, 191);
-    &:last-child {
+  padding: 35px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: calc(350px / 3);
+  border-right: 1px solid rgb(191, 191, 191);
+  &:last-child {
     border-right: none;
-   }
-    `
+  }
+`;
 
 export const Label = styled.span`
   font-size: 14px;
